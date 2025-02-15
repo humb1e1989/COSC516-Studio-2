@@ -3,7 +3,8 @@
 > A bowling game made with **Unity**. This is the submission for _**COSC516 Studio 2**_
 
 ## 📸 Game Preview
-![Game Screenshot](https://your-image-link.com)  
+
+https://github.com/user-attachments/assets/03f84478-4215-471e-89bc-63c14c7f7ab1
 _Screenshot of the game in action_
 
 ---
