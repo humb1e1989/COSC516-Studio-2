@@ -12,7 +12,7 @@ _Screenshot of the game in action_
 ## 📌 Key Features Corresponding to Marking Criteria
 ### ✅ **Base Game Mechanics**
 - **Ball Rolling & Pin Collision** – Implemented using `Rigidbody` physics to ensure realistic interactions.
-- **Prefab System** – Created reusable `Ball`, `Pins`, and `Gutter` prefabs for efficient game object management.
+- **Prefab System** – Created reusable `Ball`, `Pins & Pin Collection`, and `Gutter` prefabs for efficient game object management.
 - **Gutter Mechanics** – Implemented `OnTriggerEnter` to detect when `Ball` enters the `Gutter`, ensuring correct game rules.
 
 ### ✅ **Player & Camera Controls**
