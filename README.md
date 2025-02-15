@@ -96,10 +96,10 @@ cd bowling-with-physics
 - 🖥 **Unity UI & TextMeshPro** for scorekeeping
 
 
-`---
+`---`
 
-## 📜 License
-This project is **MIT Licensed**. Feel free to use and modify!`
+`## 📜 License`
+`This project is **MIT Licensed**. Feel free to use and modify!`
 
 ---
 
