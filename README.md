@@ -85,10 +85,8 @@ _Screenshot of the game in action_
 ├── 📂 ProjectSettings  # Unity Project Configuration
 ├── 📂 Temp  # Temporary Build Files (Auto-generated)
 ├── 📂 UserSettings  # Unity User Preferences
-
-
 ```
-~~This text is strikethrough~~
+
 
 ## 🙌 Credits
 - **_LostboiSurviveA1one_ made this** 
