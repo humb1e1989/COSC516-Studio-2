@@ -15,6 +15,10 @@ _Screenshot of the game in action_
 - 🔊 **Sound Effects** – Feedback when ball hits pins
 - 📷 **Dynamic Camera** – Follows the ball during play
 - 🌟 **Custom Models & Materials** – Enhanced visual realism
+- 🏗 **Cinemachine Camera** – Allows smooth third-person aiming and tracking
+- 🎯 **Aiming Indicator** – Visual cue for ball launching direction
+- 🎭 **Invisible Walls & Physics Layers** – Ensures proper gameplay mechanics
+- 🔄 **Game Reset Functionality** – Allows replaying rounds without restarting
 
 ---
 
@@ -39,9 +43,9 @@ cd bowling-with-physics
 | Key | Action |
 |------|---------|
 | `A/D` | Move Player Left/Right |
+| `Mouse` | Adjust Camera |
 | `Space` | Throw Ball |
 | `R` | Reset Game |
-| `Mouse` | Adjust Camera |
 
 ---
 
@@ -64,8 +68,33 @@ cd bowling-with-physics
 - 🎮 **Unity (2021.3 LTS)**
 - 🎲 **C# (Game Logic & Physics)**
 - 🏗 **Rigidbody & Colliders** for physics interactions
-- 🔊 **AudioSource** for sound effects
+- 🎥 **Cinemachine** for dynamic camera control
 - 🎨 **Custom 3D Models & Materials**
+- 🔊 **AudioSource** for sound effects
+- 🖥 **Unity UI & TextMeshPro** for scorekeeping
+
+---
+
+## 📌 Implemented Features as per Assignment
+### ✅ **Base Game Setup**
+- **Ball Rolling & Pin Collision** – Implemented using `Rigidbody`
+- **Prefab System** – Used for managing multiple objects efficiently
+- **Trigger Colliders (Gutter)** – Detects when `Ball` enters `Gutter`
+
+### ✅ **Player & Camera Controls**
+- **Cinemachine Camera** – Smooth tracking and aiming
+- **Player Movement** – `A/D` to move left and right
+- **Ball Aiming & Shooting** – Uses `LaunchIndicator`
+
+### ✅ **Game Management**
+- **Pin Fall Detection** – Implemented using `OnTriggerEnter` in `FallTrigger.cs`
+- **Score Tracking** – Auto-updates score UI
+- **Reset Functionality** – Allows replay without restarting Unity
+
+### ✅ **Polish & Visual Enhancements**
+- **Imported Custom 3D Models** – Pins, Ball, Arrow from `poly.pizza`
+- **Applied Physics Materials** – Optimized ball rolling and pin behavior
+- **Enhanced UI & Sound Effects** – Improved player feedback
 
 ---
 
