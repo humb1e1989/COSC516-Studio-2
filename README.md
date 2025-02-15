@@ -47,8 +47,8 @@ _Screenshot of the game in action_
 ### **1️⃣ Download & Open the Project**
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-repo/bowling-with-physics.git
-   cd bowling-with-physics
+   git clone https://github.com/humb1e1989/COSC516-Studio-2.git
+   cd COSC516-Studio-2
    ```
 2. **Open in Unity**
    - Open **Unity Hub**
