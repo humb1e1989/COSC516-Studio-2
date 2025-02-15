@@ -1,4 +1,4 @@
-# 🎳 Bowling With Physics
+# 🎳 Bowling (With Physics)
 
 > A bowling game made with **Unity**. This is the submission for _**COSC516 Studio 2**_
 
