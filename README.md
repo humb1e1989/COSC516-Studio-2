@@ -91,5 +91,5 @@ _Screenshot of the game in action_
 
 ## 🙌 Credits
 - **_LostboiSurviveA1one_ made this** 
-- **Assets from:** `poly.pizza`, `Kenney.nl`, `Quaternius`, and `CC0 Licensed Resources`
+- **Assets from:** `poly.pizza`
 ```
