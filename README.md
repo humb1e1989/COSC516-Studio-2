@@ -88,7 +88,6 @@ _Screenshot of the game in action_
 ├── 📂 UserSettings  # Unity User Preferences
 ```
 
-
 ## 🙌 Credits
 - **_LostboiSurviveA1one_ made this** 
 - **Assets from:** `poly.pizza`
