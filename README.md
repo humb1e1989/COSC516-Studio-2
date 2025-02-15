@@ -1,6 +1,6 @@
-# 🎳 Bowling (with Physics) Studio 2 Project
+# 🎳 Bowling With Physics
 
-> A bowling game made in **UNITY**, this is the submission for _**COSC516 studio 2**_
+> A physics-based bowling game developed in **Unity**, implementing realistic physics interactions, user-friendly controls, and immersive gameplay.
 
 ## 📸 Game Preview
 ![Game Screenshot](https://your-image-link.com)  
@@ -75,26 +75,27 @@ cd bowling-with-physics
 
 ---
 
-## 📌 Implemented Features as per Assignment
-### ✅ **Base Game Setup**
-- **Ball Rolling & Pin Collision** – Implemented using `Rigidbody`
-- **Prefab System** – Used for managing multiple objects efficiently
-- **Trigger Colliders (Gutter)** – Detects when `Ball` enters `Gutter`
+## 📌 Key Features Corresponding to Marking Criteria
+### ✅ **Base Game Mechanics**
+- **Ball Rolling & Pin Collision** – Implemented using `Rigidbody` physics to ensure realistic interactions.
+- **Prefab System** – Created reusable `Ball`, `Pins`, and `Gutter` prefabs for efficient game object management.
+- **Gutter Mechanics** – Implemented `OnTriggerEnter` to detect when `Ball` enters the `Gutter`, ensuring correct game rules.
 
 ### ✅ **Player & Camera Controls**
-- **Cinemachine Camera** – Smooth tracking and aiming
-- **Player Movement** – `A/D` to move left and right
-- **Ball Aiming & Shooting** – Uses `LaunchIndicator`
+- **Cinemachine Camera** – Integrated `Cinemachine` for smooth tracking and third-person aiming.
+- **Player Movement** – `A/D` keys allow smooth left and right movement.
+- **Ball Aiming & Shooting** – Implemented `LaunchIndicator` to visually guide the player before throwing the ball.
 
-### ✅ **Game Management**
-- **Pin Fall Detection** – Implemented using `OnTriggerEnter` in `FallTrigger.cs`
-- **Score Tracking** – Auto-updates score UI
-- **Reset Functionality** – Allows replay without restarting Unity
+### ✅ **Game Management & Scoring**
+- **Pin Fall Detection** – Implemented `OnTriggerEnter` in `FallTrigger.cs` to track knocked-down pins.
+- **Score System** – Score automatically updates in UI when pins fall.
+- **Game Reset Functionality** – Pressing `R` resets `Ball`, `Pins`, and `Score`, allowing seamless replay.
 
-### ✅ **Polish & Visual Enhancements**
-- **Imported Custom 3D Models** – Pins, Ball, Arrow from `poly.pizza`
-- **Applied Physics Materials** – Optimized ball rolling and pin behavior
-- **Enhanced UI & Sound Effects** – Improved player feedback
+### ✅ **Polish & User Experience Enhancements**
+- **Custom 3D Models** – Imported `CC0` licensed models for `Ball`, `Pins`, and `LaunchIndicator`.
+- **Physics Materials** – Adjusted friction and bounciness for more realistic ball and pin movement.
+- **UI & Sound Effects** – Improved player feedback with dynamic UI updates and collision sound effects.
+- **Camera Tracking** – Ensured the camera follows the ball smoothly, enhancing immersion.
 
 ---
 
