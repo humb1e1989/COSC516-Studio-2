@@ -32,7 +32,7 @@ _Screenshot of the game in action_
 ### ✅ **Game Management & Scoring**
 - **Pin Fall Detection** – Implemented `OnTriggerEnter` in `FallTrigger.cs` to track knocked-down pins.
 - **Score System** – Score automatically updates in UI when pins fall.
-- **Game Reset Functionality** – Pressing `R` resets `Ball` and `Pins`.
+- **Game Reset Functionality** – Pressing `R` resets `Ball` and `Pins` and keep persist score.
 
 ### ✅ **Polish & User Experience Enhancements**
 - **Custom 3D Models** – Imported `CC0` licensed models for `Ball`, `Pins`, and `LaunchIndicator`.
