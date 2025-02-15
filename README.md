@@ -90,4 +90,4 @@ _Screenshot of the game in action_
 
 ## 🙌 Credits
 - **_LostboiSurviveA1one_ made this** 
-- **Assets from:** `poly.pizza`
+- **Assets from:** `poly.pizza` 
