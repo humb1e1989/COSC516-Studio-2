@@ -83,19 +83,6 @@ _Screenshot of the game in action_
 ├── 📄 README.md  # Documentation
 ```
 
-
-## 🔧 Technologies Used
-- 🎮 **Unity (2021.3 LTS)**
-- 🎲 **C# (Game Logic & Physics)**
-- 🏗 **Rigidbody & Colliders** for physics interactions
-- 🎥 **Cinemachine** for dynamic camera control
-- 🎨 **Custom 3D Models & Materials**
-- 🔊 **AudioSource** for sound effects
-- 🖥 **Unity UI & TextMeshPro** for scorekeeping
-
-
----
-
 ## 🙌 Credits
 - **_LostboiSurviveA1one_ made this** 
 - **Assets from:** `poly.pizza`, `Kenney.nl`, `Quaternius`, and `CC0 Licensed Resources`
