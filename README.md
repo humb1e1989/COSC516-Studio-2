@@ -81,7 +81,7 @@ _Screenshot of the game in action_
 │   ├── 📂 UI  # UI Elements
 ├── 📂 Scenes  # Unity Scenes
 ├── 📄 README.md  # Documentation
-
+```
 
 ## 🏗 Project Structure
 ```
@@ -93,9 +93,10 @@ _Screenshot of the game in action_
 │   ├── 📂 Scenes  # Unity Scenes
 │   ├── 📂 Scripts  # C# Scripts
 │   ├── 📂 TextMesh Pro  # UI Font System
-```
+
 ```
 
 ## 🙌 Credits
 - **_LostboiSurviveA1one_ made this** 
 - **Assets from:** `poly.pizza`, `Kenney.nl`, `Quaternius`, and `CC0 Licensed Resources`
+```
