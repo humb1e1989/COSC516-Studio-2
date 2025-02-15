@@ -14,7 +14,7 @@ _Screenshot of the game in action_
 - 🏗 **Cinemachine Camera** – Follows the ball during play. It allows smooth third-person aiming and tracking
 - 🎯 **Aiming Indicator** – Visual cue for ball launching direction
 - 🎳 **Scoring System** – Automatic tracking of knocked-down pins
-- 🔄 **Game Reset Functionality** – Allows replaying rounds without restarting and reseting the score
+- 🔄 **Game Reset Functionality** – Allows replaying rounds without restarting but **NOT** reset the scores.
 - 🌟 **Custom Models & Materials** – Enhanced visual realism
 ---
 
