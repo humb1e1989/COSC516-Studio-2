@@ -10,12 +10,12 @@ _Screenshot of the game in action_
 
 ## 🎯 Features
 - 🏀 **Realistic Physics** – Ball rolling, pin collisions, and gutter interaction
-- 🎳 **Scoring System** – Automatic tracking of knocked-down pins
-- 🌟 **Custom Models & Materials** – Enhanced visual realism
-- 🏗 **Cinemachine Camera** – Follows the ball during play. It allows smooth third-person aiming and tracking.
-- 🎯 **Aiming Indicator** – Visual cue for ball launching direction
 - 🎭 **Invisible Walls & Physics Layers** – Ensures proper gameplay mechanics
+- 🏗 **Cinemachine Camera** – Follows the ball during play. It allows smooth third-person aiming and tracking
+- 🎯 **Aiming Indicator** – Visual cue for ball launching direction
+- 🎳 **Scoring System** – Automatic tracking of knocked-down pins
 - 🔄 **Game Reset Functionality** – Allows replaying rounds without restarting and reseting the score
+- 🌟 **Custom Models & Materials** – Enhanced visual realism
 ---
 
 ## 📌 Key Features Corresponding to Marking Criteria
