@@ -1,6 +1,6 @@
 # 🎳 Bowling (with Physics)
 
-> A bowling game made in **Unity**
+> A bowling game made in **UNITY**
 
 ## 📸 Game Preview
 ![Game Screenshot](https://your-image-link.com)  
