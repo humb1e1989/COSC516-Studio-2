@@ -1,6 +1,6 @@
-# 🎳 Bowling (with Physics)
+# 🎳 Bowling (with Physics) Studio 2 Project
 
-> A bowling game made in **UNITY**
+> A bowling game made in **UNITY**, this is the submission for COSC516 studio 2
 
 ## 📸 Game Preview
 ![Game Screenshot](https://your-image-link.com)  
