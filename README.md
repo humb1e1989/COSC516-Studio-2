@@ -37,7 +37,7 @@ _Screenshot of the game in action_
 ### ✅ **Polish & User Experience Enhancements**
 - **Custom 3D Models** – Imported `CC0` licensed models for `Ball`, `Pins`, and `LaunchIndicator`.
 - **Physics Materials** – Adjusted friction and bounciness for more realistic ball and pin movement.
-- **UI & Sound Effects** – Improved player feedback with dynamic UI updates.
+- **User Interface** – Improved player feedback with dynamic UI updates.
 - **Camera Tracking** – Ensured the camera follows the player smoothly.
 
 ---
