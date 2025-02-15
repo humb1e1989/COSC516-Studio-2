@@ -93,7 +93,7 @@ _Screenshot of the game in action_
 │   ├── 📂 Scenes  # Unity Scenes
 │   ├── 📂 Scripts  # C# Scripts
 │   ├── 📂 TextMesh Pro  # UI Font System
-├── 📂 Library  # Unity Cache & Metadata (Do Not Modify)
+├── ~~📂 Library  # Unity Cache & Metadata (Do Not Modify)~~
 ├── 📂 Logs  # Debugging & Error Logs
 ├── 📂 Packages  # Unity Package Manager Dependencies
 ├── 📂 ProjectSettings  # Unity Project Configuration
