@@ -1,6 +1,6 @@
 # 🎳 Bowling (with Physics)
 
-> A physics-based bowling game developed in **Unity**, implementing realistic physics interactions, user-friendly controls, and immersive gameplay.
+> A bowling game made in **Unity**
 
 ## 📸 Game Preview
 ![Game Screenshot](https://your-image-link.com)  
