@@ -81,6 +81,19 @@ _Screenshot of the game in action_
 │   ├── 📂 UI  # UI Elements
 ├── 📂 Scenes  # Unity Scenes
 ├── 📄 README.md  # Documentation
+
+
+## 🏗 Project Structure
+```
+📂 BowlingWithPhysics
+├── 📂 Assets
+│   ├── 📂 Materials  # Textures & Materials
+│   ├── 📂 Models  # Imported 3D Models
+│   ├── 📂 Prefabs  # Game Objects Prefabs
+│   ├── 📂 Scenes  # Unity Scenes
+│   ├── 📂 Scripts  # C# Scripts
+│   ├── 📂 TextMesh Pro  # UI Font System
+```
 ```
 
 ## 🙌 Credits
