@@ -45,7 +45,7 @@ _Screenshot of the game in action_
 ## 🛠 Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-repo/bowling-with-physics.git
+git clone https://github.com/humb1e1989/COSC516-Studio-2.git
 cd bowling-with-physics
 ```
 
