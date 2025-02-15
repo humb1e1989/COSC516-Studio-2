@@ -74,19 +74,6 @@ _Screenshot of the game in action_
 ```
 📂 BowlingWithPhysics
 ├── 📂 Assets
-│   ├── 📂 Scripts  # C# Scripts
-│   ├── 📂 Prefabs  # Game Objects Prefabs
-│   ├── 📂 Materials  # Textures & Materials
-│   ├── 📂 Audio  # Sound Effects
-│   ├── 📂 UI  # UI Elements
-├── 📂 Scenes  # Unity Scenes
-├── 📄 README.md  # Documentation
-```
-
-## 🏗 Project Structure
-```
-📂 BowlingWithPhysics
-├── 📂 Assets
 │   ├── 📂 Materials  # Textures & Materials
 │   ├── 📂 Models  # Imported 3D Models
 │   ├── 📂 Prefabs  # Game Objects Prefabs
