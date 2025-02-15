@@ -6,6 +6,31 @@
 ![Game Screenshot](https://your-image-link.com)  
 _Screenshot of the game in action_
 
+
+---
+
+## 📌 Key Features Corresponding to Marking Criteria
+### ✅ **Base Game Mechanics**
+- **Ball Rolling & Pin Collision** – Implemented using `Rigidbody` physics to ensure realistic interactions.
+- **Prefab System** – Created reusable `Ball`, `Pins`, and `Gutter` prefabs for efficient game object management.
+- **Gutter Mechanics** – Implemented `OnTriggerEnter` to detect when `Ball` enters the `Gutter`, ensuring correct game rules.
+
+### ✅ **Player & Camera Controls**
+- **Cinemachine Camera** – Integrated `Cinemachine` for smooth tracking and third-person aiming.
+- **Player Movement** – `A/D` keys allow smooth left and right movement.
+- **Ball Aiming & Shooting** – Implemented `LaunchIndicator` to visually guide the player before throwing the ball.
+
+### ✅ **Game Management & Scoring**
+- **Pin Fall Detection** – Implemented `OnTriggerEnter` in `FallTrigger.cs` to track knocked-down pins.
+- **Score System** – Score automatically updates in UI when pins fall.
+- **Game Reset Functionality** – Pressing `R` resets `Ball`, `Pins`, and `Score`, allowing seamless replay.
+
+### ✅ **Polish & User Experience Enhancements**
+- **Custom 3D Models** – Imported `CC0` licensed models for `Ball`, `Pins`, and `LaunchIndicator`.
+- **Physics Materials** – Adjusted friction and bounciness for more realistic ball and pin movement.
+- **UI & Sound Effects** – Improved player feedback with dynamic UI updates and collision sound effects.
+- **Camera Tracking** – Ensured the camera follows the ball smoothly, enhancing immersion.
+
 ---
 
 ## 🎯 Features
