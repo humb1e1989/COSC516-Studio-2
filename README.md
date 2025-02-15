@@ -37,7 +37,7 @@ _Screenshot of the game in action_
 - 🏀 **Realistic Physics** – Ball rolling, pin collisions, and gutter interaction
 - 🎳 **Scoring System** – Automatic tracking of knocked-down pins
 - 🚀 **Polished Gameplay** – Smooth controls, enhanced UI, and immersive effects
-- 🔊 **Sound Effects** – Feedback when ball hits pins
+`- 🔊 **Sound Effects** – Feedback when ball hits pins`
 - 📷 **Dynamic Camera** – Follows the ball during play
 - 🌟 **Custom Models & Materials** – Enhanced visual realism
 - 🏗 **Cinemachine Camera** – Allows smooth third-person aiming and tracking
