@@ -106,5 +106,5 @@ This project is **MIT Licensed**. Feel free to use and modify!
 ---
 
 ## 🙌 Credits
-- **_LostboiSurviveA1one_ made this:** 
+- **_LostboiSurviveA1one_ made this** 
 - **Assets from:** `poly.pizza`, `Kenney.nl`, `Quaternius`, and `CC0 Licensed Resources`
