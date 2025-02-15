@@ -43,22 +43,6 @@ _Screenshot of the game in action_
 ---
 
 ## 🛠 Installation & Setup
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/humb1e1989/COSC516-Studio-2.git
-cd bowling-with-physics
-```
-
-### **2️⃣ Open in Unity**
-1. Open **Unity Hub**
-2. Click `Open` and select the project folder
-3. Ensure you are using **Unity 2021.3 LTS** or later
-
-### **3️⃣ Run the Game**
-- Click **`Play`** in the Unity Editor
-
-
-## 🛠 Installation & Setup
 ### **1️⃣ Download & Open the Project**
 1. **Clone the repository**
    ```bash
@@ -71,7 +55,7 @@ cd bowling-with-physics
    - Ensure you are using **Unity 2021.3 LTS** or later
 
 ### **2️⃣ Run the Game**
-1. Open the `MainScene` from the `Scenes` folder.
+1. Open the `SampleScene` from the `Scenes` folder.
 2. Click **`Play`** in the Unity Editor.
 3. Adjust player controls and enjoy the game!
 ---
