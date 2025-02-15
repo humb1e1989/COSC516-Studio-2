@@ -99,7 +99,7 @@ cd bowling-with-physics
 ---
 
 ## 📜 License
-`This project is **MIT Licensed**. Feel free to use and modify!`
+This project is **MIT Licensed**. Feel free to use and modify!
 
 ---
 
