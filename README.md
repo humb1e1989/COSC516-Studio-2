@@ -57,6 +57,23 @@ cd bowling-with-physics
 ### **3️⃣ Run the Game**
 - Click **`Play`** in the Unity Editor
 
+
+## 🛠 Installation & Setup
+### **1️⃣ Download & Open the Project**
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-repo/bowling-with-physics.git
+   cd bowling-with-physics
+   ```
+2. **Open in Unity**
+   - Open **Unity Hub**
+   - Click `Open` and select the project folder
+   - Ensure you are using **Unity 2021.3 LTS** or later
+
+### **2️⃣ Run the Game**
+1. Open the `MainScene` from the `Scenes` folder.
+2. Click **`Play`** in the Unity Editor.
+3. Adjust player controls and enjoy the game!
 ---
 
 ## 🎮 Controls
