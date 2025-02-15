@@ -8,7 +8,7 @@ _Screenshot of the game in action_
 
 ---
 
-## 🎯 Features
+## 🎯 Main Features
 - 🏀 **Realistic Physics** – Ball rolling, pin collisions, and gutter interaction
 - 🎭 **Invisible Walls & Physics Layers** – Ensures proper gameplay mechanics
 - 🏗 **Cinemachine Camera** – Follows the ball during play. It allows smooth third-person aiming and tracking
