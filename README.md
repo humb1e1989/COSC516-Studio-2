@@ -4,7 +4,7 @@
 
 ## 📸 Game Preview
 
-<video src="https://github.com/user-attachments/assets/03f84478-4215-471e-89bc-63c14c7f7ab1"></video>
+<video src="https://youtu.be/LmRjTkSof-w"></video>
 _Screenshot of the game in action_
 
 ---
